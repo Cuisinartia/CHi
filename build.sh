@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-gcc main/ -o main.o
+gcc main/main.c -o main.o
